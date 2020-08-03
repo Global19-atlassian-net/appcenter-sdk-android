@@ -12,5 +12,4 @@ ext {
     targetSdkVersion = 30
     compileSdkVersion = 30
     supportLibVersion = '28.0.0'
-    ndkVersion = 'r21'
 }
